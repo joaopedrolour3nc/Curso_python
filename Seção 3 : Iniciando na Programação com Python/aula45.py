@@ -6,3 +6,6 @@ iter -> Me entregue seu iterador
 """
 texto = 'Luiz'
 interator = iter(texto)
+
+while True:
+    ...
